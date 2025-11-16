@@ -35,23 +35,6 @@ This project handles user authentication, subscription lifecycle management, and
 - Centralized error handling
 - Clean and structured codebase
 
----
-
-## Folder Structure
-
-project/
-├── src/
-│ ├── config/
-│ ├── controllers/
-│ ├── middlewares/
-│ ├── models/
-│ ├── routes/
-│ └── utils/
-├── .env
-├── package.json
-├── README.md
-└── app.js
-
 
 ---
 
